@@ -51,7 +51,7 @@ Welcome! I'm a budding data analyst passionate about turning data into actionabl
 
 ## 📫 Contact Me
 
-📧 nandanpanda1999.com  
+📧 nandanpanda1999@gmail.com  
 💼 [LinkedIn](www.linkedin.com/in/npanda99)  
 📂 [Resume (PDF)](./Nandan_Resume.pdf)
 
