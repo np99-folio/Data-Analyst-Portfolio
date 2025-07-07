@@ -41,7 +41,7 @@ Welcome! I'm a budding data analyst passionate about turning data into actionabl
 
 ---
 
-### 4. 🏘️ Airbnb Dashboard in Tableau
+### 5. 🏘️ Airbnb Dashboard in Tableau
 **Tools:** Tableau  
 **Skills:** Interactive Dashboard, Storytelling  
 📁 [View Project](./Tableau-Airbnb/README.md)  
@@ -49,7 +49,7 @@ Welcome! I'm a budding data analyst passionate about turning data into actionabl
 
 ---
 
-### 5. 🧠 Retail Business Case Study
+### 6. 🧠 Retail Business Case Study
 **Tools:** Excel + SQL + Visualization  
 **Skills:** Business KPI Analysis, Reporting  
 📁 [View Project](./Business-Case-Study/README.md)
