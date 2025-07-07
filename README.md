@@ -13,31 +13,30 @@ Welcome! I'm a budding data analyst passionate about turning data into actionabl
 
 ## 📂 Projects
 
-### 1. 🛒 Sales Dashboard in Excel
-**Tools:** Excel  
-**Skills:** Pivot Tables, VLOOKUP, Charts  
-📁 [View Project](./Excel-Sales-Dashboard/README.md)
-
----
-
-### 2. 🧾 SQL Store Analysis
-**Tools:** SQL (PostgreSQL)  
-**Skills:** Joins, Window Functions, Aggregation  
-📁 [View Project](./SQL-Store-Insights/README.md)
-
----
-
-### 3. 🛒 Blinkit Sales Dashboard in Excel
+### 1. 🛒 Blinkit Sales Dashboard in Excel
 **Tools:** Excel  
 **Skills:** Pivot Tables, Pivot Charts, Slicers, Interactive Dashboard  
 📁 [View Project](projects/Blinkit_Grocery_Dashboard)
 
 ---
 
-### 4. 💳 Credit Card Financial & Transaction Analysis Dashboard in PowerBi
+### 2. 💳 Credit Card Financial & Transaction Analysis Dashboard in PowerBi
 **Tools:** PowerBI  
 **Skills:** MySQL database connection, DAX calculated columns, Tables, Charts, Slicers, Interactive Dashboard  
 📁 [View Project](projects/credit_card_financial_dashboard)
+
+---
+### 3. 🛒 Sales Dashboard in Excel
+**Tools:** Excel  
+**Skills:** Pivot Tables, VLOOKUP, Charts  
+📁 [View Project](./Excel-Sales-Dashboard/README.md)
+
+---
+
+### 4. 🧾 SQL Store Analysis
+**Tools:** SQL (PostgreSQL)  
+**Skills:** Joins, Window Functions, Aggregation  
+📁 [View Project](./SQL-Store-Insights/README.md)
 
 ---
 
