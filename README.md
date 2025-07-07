@@ -1,12 +1,12 @@
 # 📊 Data Analyst Portfolio - Nandan Panda
 
-Welcome! I'm a budding data analyst passionate about turning data into actionable insights. This portfolio showcases the projects I've worked on using tools like Python, SQL, Excel, and Tableau.
+Welcome! I'm a budding data analyst passionate about turning data into actionable insights. This portfolio showcases the projects I've worked on using tools like  SQL, Excel, PowerBi and Tableau.
 
 ---
 
 ## 🧰 Skills
 
-- **Languages & Tools:** Python (pandas, matplotlib, seaborn), SQL (PostgreSQL, MySQL), Excel, Tableau, Power BI
+- **Languages & Tools:** SQL (PostgreSQL, MySQL, MS SQL Server), Excel, Tableau, Power BI
 - **Techniques:** Data Cleaning, Exploratory Data Analysis (EDA), Dashboarding, Business Intelligence
 
 ---
@@ -27,10 +27,10 @@ Welcome! I'm a budding data analyst passionate about turning data into actionabl
 
 ---
 
-### 3. 🎬 Netflix EDA using Python
-**Tools:** Python, pandas, matplotlib  
-**Skills:** Data Cleaning, EDA, Visualization  
-📁 [View Project](./Python-Netflix-EDA/README.md)
+### 3. 🛒 Blinkit Sales Dashboard in Excel
+**Tools:** Excel  
+**Skills:** Pivot Tables, Pivot Charts, Slicers, Interactive Dashboard  
+📁 [View Project](projects/Blinkit_Grocery_Dashboard)
 
 ---
 
