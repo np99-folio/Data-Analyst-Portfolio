@@ -34,6 +34,13 @@ Welcome! I'm a budding data analyst passionate about turning data into actionabl
 
 ---
 
+### 4. 💳 Credit Card Financial & Transaction Analysis Dashboard in PowerBi
+**Tools:** PowerBI  
+**Skills:** MySQL database connection, DAX calculated columns, Tables, Charts, Slicers, Interactive Dashboard  
+📁 [View Project](projects/credit_card_financial_dashboard)
+
+---
+
 ### 4. 🏘️ Airbnb Dashboard in Tableau
 **Tools:** Tableau  
 **Skills:** Interactive Dashboard, Storytelling  
