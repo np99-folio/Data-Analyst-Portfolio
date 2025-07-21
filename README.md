@@ -7,7 +7,7 @@ Welcome! I'm a budding data analyst passionate about turning data into actionabl
 ## 🧰 Skills
 
 - **Languages & Tools:** SQL (PostgreSQL, MySQL, MS SQL Server), Excel, Tableau, Power BI
-- **Techniques:** Data Cleaning, Exploratory Data Analysis (EDA), Dashboarding, Business Intelligence
+- **Techniques:** Data Cleaning, Data Transformation, Data Modelling, Data Analysis, ETL, Exploratory Data Analysis (EDA), Dashboarding, Business Intelligence
 
 ---
 
@@ -26,10 +26,10 @@ Welcome! I'm a budding data analyst passionate about turning data into actionabl
 📁 [View Project](projects/credit_card_financial_dashboard)
 
 ---
-### 3. 🛒 Sales Dashboard in Excel
+### 3. 🛒 Ferns & Petals Sales Dashboard in Excel
 **Tools:** Excel  
-**Skills:** Pivot Tables, VLOOKUP, Charts  
-📁 [View Project](./Excel-Sales-Dashboard/README.md)
+**Skills:** Power Query Editor, Power Pivot, Pivot Tables, Charts, Slicers  
+📁 [View Project](projects/Ferns_Petals_Dashboard)
 
 ---
 
