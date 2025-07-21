@@ -1,0 +1,30 @@
+
+STEPS INVOLVED:
+
+EXTRACT DATA- Collect data from data sources
+
+CLEAING DATA- Null values, inconsistencies, white spaces, something needs to be split or merged using cleaning methods
+
+TRANSFORMATION-	Based on existing columns creating new columns 
+
+DATA MODELLING- If we have multiple tables and need to fetch data or columns from those tables
+
+DATA ANALYSIS- We drive our analysis using pivot tables
+
+DASHBOARD- End result of outcomes and create a executive summary as well for writing insights.
+
+
+
+
+TOOLS USED:
+
+POWER QUERY EDITOR (PQE)- It's an ETL tool where we can extract data, transform it and load it back to Excel 
+
+POWER PIVOT- For data modelling 
+
+PIVOT TABLE & MEASURES- For data analysis
+
+CHATGPT- For creating an executive summary
+
+
+
