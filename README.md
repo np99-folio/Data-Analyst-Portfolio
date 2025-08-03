@@ -60,7 +60,7 @@ Welcome! I'm a budding data analyst passionate about turning data into actionabl
 ### 7. 🔄 Power Query Automation & Transformation Project (ETL)
 **Tools:** Excel  
 **Skills:** Power Query Editor  
-📁 [View Project](projects/ETL web scraping and business_data using power query)
+📁 [View Project](projects/ETL_web_scrapping_business_data_power_query/README.md)
 
 ---
 
