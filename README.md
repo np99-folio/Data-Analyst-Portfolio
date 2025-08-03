@@ -55,6 +55,15 @@ Welcome! I'm a budding data analyst passionate about turning data into actionabl
 
 ---
 
+---
+
+### 7. 🔄 Power Query Automation & Transformation Project (ETL)
+**Tools:** Excel  
+**Skills:** Power Query Editor  
+📁 [View Project](projects/ETL web scraping and business_data using power query)
+
+---
+
 ## 📫 Contact Me
 
 📧 nandanpanda1999@gmail.com  
